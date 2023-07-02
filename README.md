@@ -10,4 +10,5 @@ Node 18+
 ## Commands
 
 `npx resumed render --theme jsonreusme-theme-full-ext`
+
 `npx resumed validate`
