@@ -27,18 +27,63 @@
   },
   "work": [
     {
-      "name": "Pied Piper",
+      "name": "Actium Health",
+      "location": "Palo Alto, CA",
+      "description": "Healthcare",
+      "position": "Staff Software Engineer",
+      "url": "https://actiumhealth.com",
+      "startDate": "2021-09-20",
+      "summary": "",
+      "highlights": [
+        "Rapidly prototyped Call App for customer review, then developed and launched the beta",
+        "Built the Intelligent Campaigns in 6 months from conception to launch",
+        "Some third point"
+      ]
+    },
+        {
+      "name": "Automation Anywhere, Inc.",
+      "location": "San Jose, CA",
+      "description": "RPA",
+      "position": "Senior Software Development Engineer",
+      "url": "https://automationanywhere.com",
+      "startDate": "2020-03-25",
+      "endDate": "2021-09-17",
+      "summary": "",
+      "highlights": [
+        "Led the UI development for Discovery Bot project by working with product and UX designers, planned UI development and interfaced with the backend team",
+        "Developed flowcharts with user editing capabilities using React, as the main feature for the general availability launch of Discovery Bot",
+        "Drove the transition to Typescript, and ensured code and component standarization throughout the company. Provided code reviews and mentoring to improve code quality"
+      ]
+    },
+    {
+      "name": "Instart",
       "location": "Palo Alto, CA",
       "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "position": "Senior UI Engineer",
+      "url": "https://en.wikipedia.org/wiki/Instart",
+      "startDate": "2019-05-05",
+      "endDate": "2020-03-20",
+      "summary": "",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Created new dashboard pages for displaying metrics in Instart's customer portal in React + Redux for viewing network utilization",
+        "Refined React components for custom queries and charts, and simplified the UI experience for the user",
+        "Integrated new self-service UI workflows for Instart services, allowing customers to modify own configurations without requiring internal support"
+      ]
+    },
+    {
+      "name": "Instart",
+      "location": "Palo Alto, CA",
+      "description": "Awesome compression company",
+      "position": "Senior Platform Engineer",
+      "url": "https://en.wikipedia.org/wiki/Instart",
+      "startDate": "2016-03-14",
+      "endDate": "2019-05-05",
+      "summary": "",
+      "highlights": [
+        "Implemented, extended and deployed Netflix Lemur for DevOps and technical support, resulting in simplified certificate management and customer self-service workflows",
+        "Developed C++ library for integration with Vault via REST APIs for internal key management system",
+        "Created tooling and scripts in Python for managing operations hardware: switches, servers, databases",
+        "Integrated and deployed services with Vault, Docker, Nomad, Kubernetes, Puppet and Salt"
       ]
     }
   ],
@@ -56,15 +101,7 @@
     }
   ],
   "awards": [],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
+  "publications": [],
   "skills": [
     {
       "name": "Web Development",
@@ -72,16 +109,8 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
-      ]
-    },
-    {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Typescript",
+        "ReactJS"
       ]
     }
   ],
@@ -90,26 +119,47 @@
   "references": [],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "Lemur",
+      "description": "Certificate and Private Key Management",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        "Certificate and key management, used to automate generation and deployment key material to serve customer traffic, streamlining the process for customer onboarding and allowing customers to self-service new configurations",
+        "Researched, integrated, and deployed Lemur as the primary developer at Instart",
+        "Improved Lemur with asynchronous certificate signing and integrating with Instart sevices",
+        "Integrated with Hashicorp Vault to further secure and distribute Lemur configuration secrets"
       ],
       "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
+        "Python",
+        "Certificates"
       ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
+      "startDate": "2017-08-24",
+      "endDate": "2018-02-22",
+      "url": "https://github.com/Netflix/Lemur",
       "roles": [
-        "Team lead",
-        "Designer"
+        "Contributor"
       ],
-      "entity": "Smoogle",
+      "entity": "Netflix",
+      "type": "application"
+    },
+    {
+      "name": "ProntoX",
+      "description": "Test Automation and Visualization",
+      "highlights": [
+        "Full stack development for automating WebPageTest to collect product performance metrics",
+        "Productized the original codebase from monolithic code with manual, one-off deployment to modules and templatized Puppet deployments",
+        "Automated worker scaling with AWS CloudFormation to reduce operational cost by 25%",
+        "Used by sales, engineering and data science teams to gather data on our services, find potential customers and explore avenues for future development"
+
+      ],
+      "keywords": [
+        "Python",
+        "Web testing automation"
+      ],
+      "startDate": "2014-09-01",
+      "endDate": "2017-08-01",
+      "roles": [
+        "Contributor"
+      ],
+      "entity": "Instart",
       "type": "application"
     }
   ],
