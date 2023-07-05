@@ -1,6 +1,11 @@
 name: Update Resume Gist
 
-on: push
+on:
+  push:
+    branches: 
+    - 'main'
+    paths:
+    - 'resume.json'
 
 jobs:
   update-resume-gist:
