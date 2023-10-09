@@ -6,7 +6,7 @@
     "image": "",
     "email": "chuong.james@gmail.com",
     "url": "https://jchuong.github.io",
-    "summary": "",
+    "summary": "A software developer with 6+ years of experience in software startups in the Bay Area. Adept at working in multiple roles and specializing in frontend development, in both greenfield and brownfield projects.",
     "location": {
       "city": "San Francisco Bay Area",
       "countryCode": "US",
@@ -35,15 +35,15 @@
       "startDate": "2021-09-20",
       "summary": "",
       "highlights": [
-        "Rapidly prototyped Call App for customer review, then developed and launched the beta",
-        "Built the Intelligent Campaigns in 6 months from conception to launch",
-        "Some third point"
+        "Rapidly built internal ETL pipeline creation, validator and viewer with Next.js",
+        "Developed from prototype to beta launch, a new replacement calling application to replace our main product",
+        "Built the Intelligent Campaigns application in 6 months from conception to launch, as a new offering for customers"
       ]
     },
         {
       "name": "Automation Anywhere, Inc.",
       "location": "San Jose, CA",
-      "description": "RPA",
+      "description": "Robot Process Automation - automating workflows",
       "position": "Senior Software Development Engineer",
       "url": "https://automationanywhere.com",
       "startDate": "2020-03-25",
@@ -52,7 +52,7 @@
       "highlights": [
         "Led the UI development for Discovery Bot project by working with product and UX designers, planned UI development and interfaced with the backend team",
         "Developed flowcharts with user editing capabilities using React, as the main feature for the general availability launch of Discovery Bot",
-        "Drove the transition to Typescript, and ensured code and component standarization throughout the company. Provided code reviews and mentoring to improve code quality"
+        "Drove the transition to Typescript, and ensured code and component standarization throughout the company. New components used in Discovery Bot became used in other teams. Provided code reviews and mentoring to improve code quality"
       ]
     },
     {
@@ -81,9 +81,9 @@
       "summary": "",
       "highlights": [
         "Implemented, extended and deployed Netflix Lemur for DevOps and technical support, resulting in simplified certificate management and customer self-service workflows",
-        "Developed C++ library for integration with Vault via REST APIs for internal key management system",
-        "Created tooling and scripts in Python for managing operations hardware: switches, servers, databases",
-        "Integrated and deployed services with Vault, Docker, Nomad, Kubernetes, Puppet and Salt"
+        "Developed C++ library for integration with Vault via REST APIs for internal key management system, allowing the instart proxy a secure intialization with secrets from Vault",
+        "Created tooling and scripts in Python for managing operations hardware: switches, servers, databases, via Device42 for infrastructure management",
+        "Integrated and deployed services with Vault, Docker, Nomad, Kubernetes, Puppet and Salt, automating deployments of our major services worldwide"
       ]
     }
   ],
@@ -125,7 +125,7 @@
         "Certificate and key management, used to automate generation and deployment key material to serve customer traffic, streamlining the process for customer onboarding and allowing customers to self-service new configurations",
         "Researched, integrated, and deployed Lemur as the primary developer at Instart",
         "Improved Lemur with asynchronous certificate signing and integrating with Instart sevices",
-        "Integrated with Hashicorp Vault to further secure and distribute Lemur configuration secrets"
+        "Integrated with Hashicorp Vault to further secure and distribute Lemur configuration secrets with Vault's secure cold storage and high availability"
       ],
       "keywords": [
         "Python",
@@ -144,9 +144,9 @@
       "name": "ProntoX",
       "description": "Test Automation and Visualization",
       "highlights": [
-        "Full stack development for automating WebPageTest to collect product performance metrics",
+        "Full stack development for automating WebPageTest to collect product performance metrics such as Time-to-first-byte and initial page load time",
         "Productized the original codebase from monolithic code with manual, one-off deployment to modules and templatized Puppet deployments",
-        "Automated worker scaling with AWS CloudFormation to reduce operational cost by 25%",
+        "Automated worker scaling with AWS CloudFormation to reduce operational cost by 25% with dynamically scaling workers for testing",
         "Used by sales, engineering and data science teams to gather data on our services, find potential customers and explore avenues for future development"
 
       ],
