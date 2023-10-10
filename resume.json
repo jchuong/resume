@@ -36,8 +36,8 @@
       "summary": "",
       "highlights": [
         "Rapidly built internal ETL pipeline creation, validator and viewer with Next.js",
-        "Developed from prototype to beta launch, a new replacement calling application to replace our main product",
-        "Built the Intelligent Campaigns application in 6 months from conception to launch, as a new offering for customers"
+        "Developed from prototype to beta launch, a calling application with priority audience generation. Two customers onboarded into the beta and received very positive reception.",
+        "Built a completely new product offering, Intelligent Campaigns application in 6 months with ReactJS with one new customerl"
       ]
     },
         {
@@ -52,7 +52,7 @@
       "highlights": [
         "Led the UI development for Discovery Bot project by working with product and UX designers, planned UI development and interfaced with the backend team",
         "Developed flowcharts with user editing capabilities using React, as the main feature for the general availability launch of Discovery Bot",
-        "Drove the transition to Typescript, and ensured code and component standarization throughout the company. New components used in Discovery Bot became used in other teams. Provided code reviews and mentoring to improve code quality"
+        "Drove the transition to Typescript, and ensured code and component standarization throughout the company. New components developed by the Discovery Bot were integrated into future project designs within the company."
       ]
     },
     {
@@ -81,7 +81,7 @@
       "summary": "",
       "highlights": [
         "Implemented, extended and deployed Netflix Lemur for DevOps and technical support, resulting in simplified certificate management and customer self-service workflows",
-        "Developed C++ library for integration with Vault via REST APIs for internal key management system, allowing the instart proxy a secure intialization with secrets from Vault",
+        "Developed C++ library for integration with Vault via REST APIs for internal key management system, allowing the Instart proxy a secure intialization without needing locally stored secrets",
         "Created tooling and scripts in Python for managing operations hardware: switches, servers, databases, via Device42 for infrastructure management",
         "Integrated and deployed services with Vault, Docker, Nomad, Kubernetes, Puppet and Salt, automating deployments of our major services worldwide"
       ]
