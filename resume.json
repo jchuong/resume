@@ -37,7 +37,7 @@
       "highlights": [
         "Rapidly built internal ETL pipeline creation, validator and viewer with Next.js",
         "Developed from prototype to beta launch, a calling application with priority audience generation. Two customers onboarded into the beta and received very positive reception.",
-        "Built a completely new product offering, Intelligent Campaigns application in 6 months with ReactJS with one new customerl"
+        "Built a completely new product offering, Intelligent Campaigns application in 6 months with ReactJS with one new customer"
       ]
     },
         {
@@ -52,7 +52,7 @@
       "highlights": [
         "Led the UI development for Discovery Bot project by working with product and UX designers, planned UI development and interfaced with the backend team",
         "Developed flowcharts with user editing capabilities using React, as the main feature for the general availability launch of Discovery Bot",
-        "Drove the transition to Typescript, and ensured code and component standarization throughout the company. New components developed by the Discovery Bot were integrated into future project designs within the company."
+        "Drove the transition to Typescript, and ensured code and component standardization throughout the company. New components developed by the Discovery Bot were integrated into future project designs within the company."
       ]
     },
     {
@@ -81,7 +81,7 @@
       "summary": "",
       "highlights": [
         "Implemented, extended and deployed Netflix Lemur for DevOps and technical support, resulting in simplified certificate management and customer self-service workflows",
-        "Developed C++ library for integration with Vault via REST APIs for internal key management system, allowing the Instart proxy a secure intialization without needing locally stored secrets",
+        "Developed C++ library for integration with Vault via REST APIs for internal key management system, allowing the Instart proxy a secure initialization without needing locally stored secrets",
         "Created tooling and scripts in Python for managing operations hardware: switches, servers, databases, via Device42 for infrastructure management",
         "Integrated and deployed services with Vault, Docker, Nomad, Kubernetes, Puppet and Salt, automating deployments of our major services worldwide"
       ]
@@ -124,7 +124,7 @@
       "highlights": [
         "Certificate and key management, used to automate generation and deployment key material to serve customer traffic, streamlining the process for customer onboarding and allowing customers to self-service new configurations",
         "Researched, integrated, and deployed Lemur as the primary developer at Instart",
-        "Improved Lemur with asynchronous certificate signing and integrating with Instart sevices",
+        "Improved Lemur with asynchronous certificate signing and integrating with Instart services",
         "Integrated with Hashicorp Vault to further secure and distribute Lemur configuration secrets with Vault's secure cold storage and high availability"
       ],
       "keywords": [
