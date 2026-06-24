@@ -50,9 +50,9 @@
       "endDate": "2024-11-01",
       "summary": "",
       "highlights": [
-        "Rapidly built internal ETL pipeline creation, validator and viewer with Next.js",
-        "Developed from prototype to beta launch, a calling application with priority audience generation. Two customers onboarded into the beta and received very positive reception.",
-        "Built a completely new product offering, Intelligent Campaigns application in 6 months with ReactJS with one new customer"
+        "Built an internal ETL pipeline creation tool, validator, and viewer in Next.js, enabling rapid data onboarding for new customers",
+        "Led development from prototype to beta launch of a priority-driven calling application, onboarding two customers who responded positively",
+        "Delivered the Intelligent Campaigns application in React from scratch within 6 months, securing one new customer at launch"
       ]
     },
         {
@@ -65,9 +65,9 @@
       "endDate": "2021-09-17",
       "summary": "",
       "highlights": [
-        "Led the UI development for Discovery Bot project by working with product and UX designers, planned UI development and interfaced with the backend team",
-        "Developed flowcharts with user editing capabilities using React, as the main feature for the general availability launch of Discovery Bot",
-        "Drove the transition to Typescript, and ensured code and component standardization throughout the company. New components developed by the Discovery Bot were integrated into future project designs within the company."
+        "Led UI development for Discovery Bot, collaborating with product and UX designers and coordinating with the backend team",
+        "Developed interactive flowcharts with user editing capabilities in React as the centerpiece feature for Discovery Bot's GA launch",
+        "Drove the company-wide transition to TypeScript and established component standardization standards, with Discovery Bot components adopted in subsequent projects across the organization"
       ]
     },
     {
@@ -80,9 +80,9 @@
       "endDate": "2020-03-20",
       "summary": "",
       "highlights": [
-        "Created new dashboard pages for displaying metrics in Instart's customer portal in React + Redux for viewing network utilization",
-        "Refined React components for custom queries and charts, and simplified the UI experience for the user",
-        "Integrated new self-service UI workflows for Instart services, allowing customers to modify own configurations without requiring internal support"
+        "Built customer portal dashboard pages in React + Redux for real-time network utilization metrics",
+        "Refined React components for custom queries and data visualizations, improving overall UX",
+        "Integrated self-service UI workflows enabling customers to manage their own service configurations, reducing reliance on internal support"
       ]
     },
     {
@@ -95,10 +95,10 @@
       "endDate": "2019-05-05",
       "summary": "",
       "highlights": [
-        "Implemented, extended and deployed Netflix Lemur for DevOps and technical support, resulting in simplified certificate management and customer self-service workflows",
-        "Developed C++ library for integration with Vault via REST APIs for internal key management system, allowing the Instart proxy a secure initialization without needing locally stored secrets",
-        "Created tooling and scripts in Python for managing operations hardware: switches, servers, databases, via Device42 for infrastructure management",
-        "Integrated and deployed services with Vault, Docker, Nomad, Kubernetes, Puppet and Salt, automating deployments of our major services worldwide"
+        "Implemented and extended Netflix Lemur for certificate and key management, streamlining DevOps workflows and enabling customer self-service",
+        "Developed a C++ library integrating with HashiCorp Vault via REST API, enabling secure proxy initialization without locally stored secrets",
+        "Built Python tooling for managing infrastructure hardware (switches, servers, databases) via Device42",
+        "Automated global service deployments using Vault, Docker, Nomad, Kubernetes, Puppet, and Salt"
       ]
     }
   ],
@@ -119,13 +119,38 @@
   "publications": [],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Frontend Development",
       "level": "Master",
       "keywords": [
         "HTML",
         "CSS",
-        "Typescript",
-        "ReactJS"
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Redux",
+        "Material UI"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Intermediate",
+      "keywords": [
+        "JavaScript",
+        "Python",
+        "C++"
+      ]
+    },
+    {
+      "name": "Infrastructure & DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Nomad",
+        "HashiCorp Vault",
+        "Puppet",
+        "Salt",
+        "AWS CloudFormation"
       ]
     }
   ],
