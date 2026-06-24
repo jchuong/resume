@@ -2,17 +2,25 @@ name: Update Resume Gist
 
 on:
   push:
-    branches: 
+    branches:
     - 'main'
     paths:
     - 'resume.json'
 
 jobs:
   update-resume-gist:
-    runs-on: ubuntu-latest 
+    runs-on: ubuntu-slim
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '26'
+
+    - name: Render Resume
+      run: npx resumed render --theme jsonresume-theme-full-ext
 
     - name: Update Resume Gist
       uses: exuanbo/actions-deploy-gist@v1
