@@ -27,12 +27,25 @@
   },
   "work": [
     {
+      "name": "Syllable",
+      "location": "Mountain View, CA",
+      "description": "Agentic Platform",
+      "position": "Staff Software Engineer",
+      "url": "https://syllable.ai",
+      "startDate": "2024-11-01",
+      "summary": "",
+      "highlights": [
+        "TODO: Add highlights"
+      ]
+    },
+    {
       "name": "Actium Health",
       "location": "Palo Alto, CA",
       "description": "Healthcare",
       "position": "Staff Software Engineer",
       "url": "https://actiumhealth.com",
       "startDate": "2021-09-20",
+      "endDate": "2024-11-01",
       "summary": "",
       "highlights": [
         "Rapidly built internal ETL pipeline creation, validator and viewer with Next.js",
