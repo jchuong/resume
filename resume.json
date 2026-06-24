@@ -6,7 +6,7 @@
     "image": "",
     "email": "chuong.james@gmail.com",
     "url": "https://jchuong.github.io",
-    "summary": "A software developer with 6+ years of experience in software startups in the Bay Area. Adept at working in multiple roles and specializing in frontend development.",
+    "summary": "A software engineer with 10+ years of experience at software startups in the Bay Area. Adept at working across multiple roles with a specialization in frontend development, currently building AI-powered products.",
     "location": {
       "city": "San Francisco Bay Area",
       "countryCode": "US",
@@ -35,7 +35,9 @@
       "startDate": "2024-11-01",
       "summary": "",
       "highlights": [
-        "TODO: Add highlights"
+        "Built the ActiumHealth demo site to showcase Syllable's voice agent platform following the acquisition",
+        "Co-developed Console, a self-service React/Next.js + Material UI application for the Zoon platform, enabling customers to configure AI agents, prompts, tools, and voices for inbound and outbound healthcare voice and chat workflows (appointment scheduling, prescriptions, billing)",
+        "Contributing to planning and prototyping for a next-generation agentic workflows platform (pre-alpha)"
       ]
     },
     {
