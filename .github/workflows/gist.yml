@@ -14,14 +14,6 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v7
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v6
-      with:
-        node-version: '26'
-
-    - name: Render Resume
-      run: npx resumed render --theme jsonresume-theme-full-ext
-
     - name: Update Resume Gist
       uses: exuanbo/actions-deploy-gist@v1
       with:
