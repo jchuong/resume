@@ -3,7 +3,6 @@
   "basics": {
     "name": "James Chuong",
     "label": "Software Engineer",
-    "image": "",
     "email": "chuong.james@gmail.com",
     "url": "https://jchuong.github.io",
     "summary": "A software engineer with 10+ years of experience at software startups in the Bay Area. Adept at working across multiple roles with a specialization in frontend development, currently building AI-powered products.",
@@ -33,7 +32,6 @@
       "position": "Staff Software Engineer",
       "url": "https://syllable.ai",
       "startDate": "2024-11-01",
-      "summary": "",
       "highlights": [
         "Built the ActiumHealth demo site to showcase Syllable's voice agent platform following the acquisition",
         "Co-developed Console, a self-service React/Next.js + Material UI application for the Zoon platform, enabling customers to configure AI agents, prompts, tools, and voices for inbound and outbound healthcare voice and chat workflows (appointment scheduling, prescriptions, billing)",
@@ -48,7 +46,6 @@
       "url": "https://actiumhealth.com",
       "startDate": "2021-09-20",
       "endDate": "2024-11-01",
-      "summary": "",
       "highlights": [
         "Built an internal ETL pipeline creation tool, validator, and viewer in Next.js, enabling rapid data onboarding for new customers",
         "Led development from prototype to beta launch of a priority-driven calling application, onboarding two customers who responded positively",
@@ -63,7 +60,6 @@
       "url": "https://automationanywhere.com",
       "startDate": "2020-03-25",
       "endDate": "2021-09-17",
-      "summary": "",
       "highlights": [
         "Led UI development for Discovery Bot, collaborating with product and UX designers and coordinating with the backend team",
         "Developed interactive flowcharts with user editing capabilities in React as the centerpiece feature for Discovery Bot's GA launch",
@@ -73,12 +69,11 @@
     {
       "name": "Instart",
       "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
+      "description": "CDN and web performance optimization platform",
       "position": "Senior UI Engineer",
       "url": "https://en.wikipedia.org/wiki/Instart",
       "startDate": "2019-05-05",
       "endDate": "2020-03-20",
-      "summary": "",
       "highlights": [
         "Built customer portal dashboard pages in React + Redux for real-time network utilization metrics",
         "Refined React components for custom queries and data visualizations, improving overall UX",
@@ -88,12 +83,11 @@
     {
       "name": "Instart",
       "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
+      "description": "CDN and web performance optimization platform",
       "position": "Senior Platform Engineer",
       "url": "https://en.wikipedia.org/wiki/Instart",
       "startDate": "2016-03-14",
       "endDate": "2019-05-05",
-      "summary": "",
       "highlights": [
         "Implemented and extended Netflix Lemur for certificate and key management, streamlining DevOps workflows and enabling customer self-service",
         "Developed a C++ library integrating with HashiCorp Vault via REST API, enabling secure proxy initialization without locally stored secrets",
@@ -102,7 +96,6 @@
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "University of Waterloo",
@@ -110,13 +103,9 @@
       "area": "Computer Science",
       "studyType": "Bachelor",
       "startDate": "2010-09-07",
-      "endDate": "2016-01-07",
-      "score": "",
-      "courses": []
+      "endDate": "2016-01-07"
     }
   ],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
       "name": "Frontend Development",
@@ -154,55 +143,7 @@
       ]
     }
   ],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "projects": [
-    {
-      "name": "Lemur",
-      "description": "Certificate and Private Key Management",
-      "highlights": [
-        "Certificate and key management, used to automate generation and deployment key material to serve customer traffic, streamlining the process for customer onboarding and allowing customers to self-service new configurations",
-        "Researched, integrated, and deployed Lemur as the primary developer at Instart",
-        "Improved Lemur with asynchronous certificate signing and integrating with Instart services",
-        "Integrated with Hashicorp Vault to further secure and distribute Lemur configuration secrets with Vault's secure cold storage and high availability"
-      ],
-      "keywords": [
-        "Python",
-        "Certificates"
-      ],
-      "startDate": "2017-08-24",
-      "endDate": "2018-02-22",
-      "url": "https://github.com/Netflix/Lemur",
-      "roles": [
-        "Contributor"
-      ],
-      "entity": "Netflix",
-      "type": "application"
-    },
-    {
-      "name": "ProntoX",
-      "description": "Test Automation and Visualization",
-      "highlights": [
-        "Full stack development for automating WebPageTest to collect product performance metrics such as Time-to-first-byte and initial page load time",
-        "Productized the original codebase from monolithic code with manual, one-off deployment to modules and templatized Puppet deployments",
-        "Automated worker scaling with AWS CloudFormation to reduce operational cost by 25% with dynamically scaling workers for testing",
-        "Used by sales, engineering and data science teams to gather data on our services, find potential customers and explore avenues for future development"
-
-      ],
-      "keywords": [
-        "Python",
-        "Web testing automation"
-      ],
-      "startDate": "2014-09-01",
-      "endDate": "2017-08-01",
-      "roles": [
-        "Contributor"
-      ],
-      "entity": "Instart",
-      "type": "application"
-    }
-  ],
+  "projects": [],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
